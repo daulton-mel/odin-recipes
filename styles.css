@@ -6,9 +6,10 @@
 }
 
 h1 {
-    font-family: "Anton", sans-serif;
-    font-weight: 400;
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 700;
     font-style: normal;
+    text-align: center;
 }
 
 ul {
@@ -26,7 +27,7 @@ li {
 .header {
     background-color: white;
     height: fit-content;
-    width: fit-content;
+    width: 500px;
     margin: 0px auto;
     padding-inline: 10px;
     border: 2px solid black;
